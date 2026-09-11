@@ -1,0 +1,33 @@
+# Compiled binaries and libraries
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+
+# Build directories
+build/
+bin/
+obj/
+
+# Environment files and keys (if ever created)
+.env
+.env.*
+*.key
+*.pem
+
+# Editor and IDE directories
+.vscode/
+.vs/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+out.txt
+err.txt
